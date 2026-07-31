@@ -85,7 +85,7 @@ Breve descrição do projeto.
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div>
   <a href="https://github.com/renanvascz">
     <img height="200em" src="./profile/stats.svg"/>
     <img height="200em" src="./profile/top-langs.svg"/>
