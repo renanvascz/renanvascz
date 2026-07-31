@@ -98,7 +98,7 @@ Breve descrição do projeto.
 
 <div align="center">
 
-<img height="265em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
+<img height="200em" src="https://streak-stats.demolab.com?user=renanvascz&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -112,8 +112,11 @@ Breve descrição do projeto.
 
 ## 📈 Atividade
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=renanvascz&theme=github-dark"/>
+<div align="center">
 
+<img height="265em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
+
+</div>
 ---
 
 ## 🌐 Contato
