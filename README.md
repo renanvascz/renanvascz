@@ -98,7 +98,7 @@ Breve descrição do projeto.
 
 <div align="center">
 
-<img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
+<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
 
 </div>
 
