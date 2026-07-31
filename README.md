@@ -98,7 +98,7 @@ Breve descrição do projeto.
 
 <div align="center">
 
-<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
+<img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
 
 </div>
 
@@ -119,7 +119,7 @@ Breve descrição do projeto.
 ## 🌐 Contato
 
 * 📧 Email: **renanvasconcelos116@protonmail.com**
-* 💼 LinkedIn: www.linkedin.com/in/renan-amaral-45719397
+* 💼 LinkedIn: https://www.linkedin.com/in/renan-vasconcelos-45719397
 * 🌎 Portfólio: https://seusite.com
 * 🐙 GitHub: https://github.com/renanvascz
 
