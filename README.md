@@ -98,7 +98,7 @@ Breve descrição do projeto.
 
 <div align="center">
 
-<img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
+<img height="265em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
 
 </div>
 
@@ -127,6 +127,7 @@ Breve descrição do projeto.
 
 ## 🎯 Objetivos
 
+* Produzir Projetos Open Source
 * Contribuir para projetos Open Source.
 * Evoluir como desenvolvedor.
 * Aprender novas tecnologias.
