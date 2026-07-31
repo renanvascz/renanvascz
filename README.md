@@ -103,19 +103,19 @@ Breve descrição do projeto.
 </div>
 ---
 
-## 🏆 Conquistas
-
-<img src="./profile/trophy.svg"/>
-
----
-
 ## 🔥 Sequência de contribuições
 
 <div align="center">
 
-<img height="200em" src="https://streak-stats.demolab.com?user=renanvascz&theme=github-dark&hide_border=true"/>
+<img hight="185em" width="750em" src="https://streak-stats.demolab.com?user=renanvascz&theme=github-dark&hide_border=true"/>
 
 </div>
+
+---
+
+## 🏆 Conquistas
+
+<img src="./profile/trophy.svg"/>
 
 ---
 
