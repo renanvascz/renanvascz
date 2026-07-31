@@ -87,8 +87,8 @@ Breve descrição do projeto.
 
 <div>
   <a href="https://github.com/renanvascz">
-    <img height="200em" src="./profile/stats.svg"/>
-    <img height="200em" src="./profile/top-langs.svg"/>
+    <img height="180em" src="./profile/stats.svg"/>
+    <img height="180em" src="./profile/top-langs.svg"/>
   </a>
 </div>
 
