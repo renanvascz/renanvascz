@@ -94,14 +94,13 @@ Breve descrição do projeto.
 
 ---
 
-## 🔥 Sequência de contribuições
+## 📈 Atividade
 
 <div align="center">
 
-<img height="200em" src="https://streak-stats.demolab.com?user=renanvascz&theme=github-dark&hide_border=true"/>
+<img height="265em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
 
 </div>
-
 ---
 
 ## 🏆 Conquistas
@@ -110,13 +109,14 @@ Breve descrição do projeto.
 
 ---
 
-## 📈 Atividade
+## 🔥 Sequência de contribuições
 
 <div align="center">
 
-<img height="265em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
+<img height="200em" src="https://streak-stats.demolab.com?user=renanvascz&theme=github-dark&hide_border=true"/>
 
 </div>
+
 ---
 
 ## 🌐 Contato
