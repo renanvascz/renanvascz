@@ -45,6 +45,7 @@
 
 * 📖 Cloud e Devops
 * 🐍 Python
+* ⚛️ React Native
 * 🐋 Docker
 * ☁︎ Nextcloud
 * ᯤ Redes
