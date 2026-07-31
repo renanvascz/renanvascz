@@ -27,14 +27,15 @@ jobs:
           options: 'username=renanvascz&layout=compact&langs_count=16&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=0D1B2A'
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
-
+          
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: renanvascz
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
+          theme: onedark
           token: ${{ secrets.PAT_TOKEN }}
-
+        
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
