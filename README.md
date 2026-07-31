@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Renan Vasconcelos
 
-> *"Não é livre aquele que não obteve domínio próprio.Pitágoras"* — Pitágoras
+> *"Não é livre aquele que não obteve domínio próprio."* — Pitágoras
 
 ---
 
