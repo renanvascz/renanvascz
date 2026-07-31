@@ -118,7 +118,7 @@ Breve descrição do projeto.
 
 ## 📈 Atividade
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=renanvascz&theme=github-dark"/>
 
 ---
 
