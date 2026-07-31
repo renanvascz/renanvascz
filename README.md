@@ -112,7 +112,7 @@ Breve descrição do projeto.
 
 ## 🏆 Conquistas
 
-<img src="https://github-profile-trophy.vercel.app/?username=renanvascz&theme=darkhub&margin-w=15&no-frame=true"/>
+<img src="./profile/trophy.svg"/>
 
 ---
 
