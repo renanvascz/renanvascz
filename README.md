@@ -111,6 +111,7 @@ Breve descrição do projeto.
 <img height="265em" src="https://github-readme-activity-graph.vercel.app/graph?username=renanvascz&theme=github-dark"/>
 
 </div>
+
 ---
 
 ## 🔥 Sequência de contribuições
