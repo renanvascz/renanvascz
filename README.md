@@ -65,10 +65,16 @@ Este projeto foi desenvolvido como parte de um **Projeto Integrador** e **já fo
 
 **Tecnologias:**
 
-* [HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-* CSS
-* PHP
-* MySQL
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+> ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) 
+
+> ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css\&logoColor=white)
+
+> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
 
 **Status:** ✅ Concluído
 
