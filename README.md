@@ -65,7 +65,7 @@ Este projeto foi desenvolvido como parte de um **Projeto Integrador** e **já fo
 
 **Tecnologias:**
 
-* HTML
+* [HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 * CSS
 * PHP
 * MySQL
